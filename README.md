@@ -28,6 +28,3 @@ This project is not licensed.
 
 Questions
 You can find me here:
-
-GitHub: PierTwo
-Email: latasnoah@gmail.com
